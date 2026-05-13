@@ -65,6 +65,14 @@ Answer: A
 
 ---
 
+## 🧪 Demo / Test File
+
+A sample DOCX file is included for quick testing and validation of the app.
+
+```txt
+demo/RUET 24-25 shift 3 4.docx
+```
+
 ## 🎨 PPT Template Requirement
 
 The backend requires the following template file:
