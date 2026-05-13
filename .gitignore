@@ -1,0 +1,57 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+ENV/
+
+# Backend build/dist
+backend/app/build/
+backend/app/dist/
+backend/app/*.spec
+
+# Generated folders
+backend/outputs/
+backend/uploads/
+
+# Templates - keep only if not secret
+# backend/templates/
+
+# Firebase / env secrets
+.env
+.env.*
+*.env
+firebase_options.dart
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Windows executable/build files
+*.exe
+*.dll
+*.pdb
+
+# PyInstaller
+*.manifest
+*.toc
+*.egg-info/
